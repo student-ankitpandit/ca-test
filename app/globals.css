@@ -12,6 +12,7 @@
   --font-mono: var(--font-geist-mono);
 }
 
+<<<<<<< HEAD
 @media (prefers-color-scheme: white) {
   :root {
     --background: #0a0a0a;
@@ -19,6 +20,8 @@
   }
 }
 
+=======
+>>>>>>> 0b99888b2416448b3f2d1b1a6184a3c6c3810318
 body {
   background: var(--background);
   color: var(--foreground);
